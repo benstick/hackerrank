@@ -1,4 +1,4 @@
-# [HackerRank](https://www.hackerrank.com/benstick) ![Language](https://img.shields.io/badge/language-C%23%2FC%2B%2B-orange.svg)
+# [HackerRank](https://www.hackerrank.com/benstick) ![Language](https://img.shields.io/badge/language-C%23-orange.svg)
 
 ## Solved Algorithms
 
