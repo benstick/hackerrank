@@ -4,5 +4,5 @@
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
-[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [C#](./algorithms/c%23/1_twosum/twosum.cs)|Easy|
+[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [C#](./algorithms/c%23/solvemefirst/solvemefirst.cs)|Easy|
 
