@@ -7,3 +7,4 @@
 [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [C#](./algorithms/c%23/solvemefirst/solvemefirst.cs)|Easy|
 [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [C#](./algorithms/c%23/comparethetriplets/comparethetriplets.cs)|Easy|
 [Grading Students](https://www.hackerrank.com/challenges/grading/problem) | [C#](./algorithms/c%23/gradingstudents/gradingstudents.cs)|Easy|
+[Staircase](https://www.hackerrank.com/challenges/staircase/problem) | [C#](./algorithms/c%23/staircase/staircase.cs)|Easy|
